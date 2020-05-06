@@ -1,8 +1,7 @@
 insert into burgers
-    (burger_name, devoured)
+    (burger_name)
 value
-("Awesome Burger",
-true
+("Awesome Burger"
 );
 insert into burgers
     (burger_name, devoured)
@@ -11,8 +10,7 @@ value
 false
 );
 insert into burgers
-    (burger_name, devoured)
+    (burger_name)
 value
-("Sweet Home Avocado Burger",
-true
+("Sweet Home Avocado Burger"
 );
