@@ -1,8 +1,8 @@
-#Welcome to EAT DA BURGER!
+# Welcome to EAT DA BURGER!
 
 # Here you can make any type of burger you would like to eat, but wait there is more!
 # YOU CAN ALSO EAT IT!!!!
 
 # 1- You just need to click on this link and it will take you to your bugers!
-![](img/burger.png)
+![](public/assets/img/burger.png)
 
