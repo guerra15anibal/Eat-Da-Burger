@@ -1,7 +1,6 @@
 li {
   padding: 5px;
   margin: 5px;
-  background: #faebd7;
 }
 
 .label {
@@ -16,4 +15,24 @@ li {
 
 .form-group {
   margin-bottom: 5px;
+}
+
+body {
+  background-image: url(https://prods3.imgix.net/images/articles/2016_11/Feature-Bobs-Burgers-FOX-Unit-120-Pop-Up-LA.jpg);
+  background-size: 100%;
+}
+
+.banner {
+  color: crimson;
+  background-color: yellow;
+  font-size: 30px;
+  width: 590px;
+}
+
+.menu {
+  color: white;
+  width: 550px;
+  padding: 20px;
+  font-size: 20px;
+  background-color: rgba(37, 35, 35, 0.87);
 }
